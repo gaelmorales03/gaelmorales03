@@ -2,7 +2,12 @@
 
 Automotive Software Validation Engineer | Embedded Systems Engineer | Robotics Engineer
 
-Currently working on Ford Motor Company projects through Alten Mexico, focused on OTA systems, HMI validation, ECU diagnostics, and vehicle communication architectures.
+Engineer specialized in automotive software validation, embedded systems, and robotics.
+
+Hands-on experience validating OTA update flows across critical ECUs, analyzing Automotive Ethernet communication, diagnosing module failures, verifying HMI behavior, and ensuring software reliability in complex vehicle architectures.
+
+Strong technical background in ROS2 robotics, sensor fusion, real-time systems, embedded development, and vehicle diagnostics.
+
 ---
 
 ## 🧠 About Me
