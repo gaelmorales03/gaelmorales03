@@ -42,7 +42,7 @@ Supported cross-functional issue resolution in validation environments.
 | **Smart Pill Dispenser with Facial Recognition** | Automated medicine dispenser that verifies identity using facial recognition. |
 | **Automotive Scanner using LabVIEW**               | Diagnostic tool development for automotive systems using LabVIEW.           |
 | **Infotainment System using Raspberry Pi**          | Development of a customizable infotainment system based on Raspberry Pi.    |
-| **Game Development on FPGA using VHDL**              | Designed and implemented games on FPGA platforms using VHDL.                 |
+| **Autonomous Differential Drive Robot**              | Designed a ROS2 autonomous robot using EKF localization, obstacle avoidance, and object delivery logic.    |
 
 ---
 
